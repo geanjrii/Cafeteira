@@ -1,0 +1,6 @@
+
+State Machine - |Cafeteira|estado
+Name estado.cafe estado.pronto estado.leite 
+estado.cafe 0 0 0 
+estado.leite 1 0 1 
+estado.pronto 1 1 0 
